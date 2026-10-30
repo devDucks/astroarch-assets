@@ -5,10 +5,7 @@
         <g transform="matrix(1,0,0,1,0,-381.943108)">
             <g id="org.astroarch.sm_locale-module" transform="matrix(1,0,0,1,1267.667113,2186.975853)">
                 <g transform="matrix(1,0,0,1,-120,-120)">
-                    <clipPath id="_clip1">
-                        <rect x="0" y="0" width="240" height="240"/>
-                    </clipPath>
-                    <g clip-path="url(#_clip1)">
+                    <g>
                         <g id="arch" transform="matrix(0.43146,0,0,0.43146,24.65,24)">
                             <g transform="matrix(1,0,0,1,-307,-1284)">
                                 <g transform="matrix(2.82109,0,0,2.82109,-476.396,481.375)">
